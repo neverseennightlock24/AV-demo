@@ -1,6 +1,7 @@
 import heapq
 import pygame
 
+# This is a demo change.
 def validate_position(pos, width=800, height=800):
     if pos is None:
         return None
